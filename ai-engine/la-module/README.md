@@ -1,5 +1,6 @@
 # learning-automata
-The code for my learning automata assignment. Tests Tsettlin, Krylov, and L_{RI} schemes. 
+
+The design LA chooses the activities based on the real-time learner in response to the API call. The current learning schemes and behavioral norms have been applied to single automation. However, a domain can exist where an automaton's actions elicit a vector of responses due to multiple performance criteria.
 
 # Running
 
